@@ -1,6 +1,6 @@
 # UnityBasicschan2
 
-- URL for GitHub repository: https://github.com/chanvely/UnityBasicschan2.git
+- URL for GitHub repository: https://chanvely.github.io/UnityBasicschan2/
 - URL for WebGL builds: https://chanvely.github.io/UnityBasicschan2/build_wasd_webgl/
 
 - Changes I have made to the original mechanic: 
